@@ -5,6 +5,7 @@ int main(){
 	for ( i=0; i<=10; i++){
 			printf("%d",i);
 			if (i==3){
+				
 				break;
 			}
 		}
